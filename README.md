@@ -1,0 +1,2 @@
+# manual
+purchase-bot-manual
